@@ -7,7 +7,7 @@
     "WebStatus": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "http://localhost:38679",
+      "applicationUrl": "http://localhost:45361",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

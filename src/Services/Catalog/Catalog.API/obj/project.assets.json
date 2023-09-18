@@ -7012,11 +7012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/D/microservices/AspNetMicroservices/src/Services/Catalog/Catalog.API/Catalog.API.csproj",
+      "projectUniqueName": "/Volumes/D/AspNetMicroservices/src/Services/Catalog/Catalog.API/Catalog.API.csproj",
       "projectName": "Catalog.API",
-      "projectPath": "/Volumes/D/microservices/AspNetMicroservices/src/Services/Catalog/Catalog.API/Catalog.API.csproj",
+      "projectPath": "/Volumes/D/AspNetMicroservices/src/Services/Catalog/Catalog.API/Catalog.API.csproj",
       "packagesPath": "/Users/dharmenderrai/.nuget/packages/",
-      "outputPath": "/Volumes/D/microservices/AspNetMicroservices/src/Services/Catalog/Catalog.API/obj/",
+      "outputPath": "/Volumes/D/AspNetMicroservices/src/Services/Catalog/Catalog.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dharmenderrai/.nuget/NuGet/NuGet.Config"
@@ -7025,15 +7025,15 @@
         "net6.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/sdk/7.0.307/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+        "/usr/local/share/dotnet/sdk/7.0.308/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Volumes/D/microservices/AspNetMicroservices/src/BuildingBlocks/Common.Logging/Common.Logging.csproj": {
-              "projectPath": "/Volumes/D/microservices/AspNetMicroservices/src/BuildingBlocks/Common.Logging/Common.Logging.csproj"
+            "/Volumes/D/AspNetMicroservices/src/BuildingBlocks/Common.Logging/Common.Logging.csproj": {
+              "projectPath": "/Volumes/D/AspNetMicroservices/src/BuildingBlocks/Common.Logging/Common.Logging.csproj"
             }
           }
         }
@@ -7088,7 +7088,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
       }
     }
   }

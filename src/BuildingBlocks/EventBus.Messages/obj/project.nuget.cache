@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TkkWmCuzvCXOyI/1J2ZtIQIKvnJs9xONwtNdX5qJRMNpeDCw4B8JFwU4Siom7hUaB68Xd3lQgoxg22TA5+ZEiA==",
+  "dgSpecHash": "t9SZw2lr+jIQ6lu1RmgDwfAEGgz33x1Ci/39Na4++4WSHLzTF4+XNjtOvnfdIW1b4YueScOL2AqwzT3kDHQpQg==",
   "success": true,
-  "projectFilePath": "/Volumes/D/microservices/AspNetMicroservices/src/BuildingBlocks/EventBus.Messages/EventBus.Messages.csproj",
+  "projectFilePath": "/Volumes/D/AspNetMicroservices/src/BuildingBlocks/EventBus.Messages/EventBus.Messages.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

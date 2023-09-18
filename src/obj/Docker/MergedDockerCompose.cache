@@ -1,8 +1,8 @@
-name: dockercompose4990733705002982799
+name: dockercompose5991029382263501978
 services:
   aspnetrunbasics:
     build:
-      context: /Volumes/D/microservices/AspNetMicroservices/src
+      context: /Volumes/D/AspNetMicroservices/src
       dockerfile: WebApps/AspnetRunBasics/Dockerfile
     container_name: aspnetrunbasics
     depends_on:
@@ -30,7 +30,7 @@ services:
       protocol: tcp
   basket.api:
     build:
-      context: /Volumes/D/microservices/AspNetMicroservices/src
+      context: /Volumes/D/AspNetMicroservices/src
       dockerfile: Services/Basket/Basket.API/Dockerfile
     container_name: basket.api
     depends_on:
@@ -65,7 +65,7 @@ services:
     restart: always
   catalog.api:
     build:
-      context: /Volumes/D/microservices/AspNetMicroservices/src
+      context: /Volumes/D/AspNetMicroservices/src
       dockerfile: Services/Catalog/Catalog.API/Dockerfile
     container_name: catalog.api
     depends_on:
@@ -101,7 +101,7 @@ services:
       volume: {}
   discount.api:
     build:
-      context: /Volumes/D/microservices/AspNetMicroservices/src
+      context: /Volumes/D/AspNetMicroservices/src
       dockerfile: Services/Discount/Discount.API/Dockerfile
     container_name: discount.api
     depends_on:
@@ -122,7 +122,7 @@ services:
       protocol: tcp
   discount.grpc:
     build:
-      context: /Volumes/D/microservices/AspNetMicroservices/src
+      context: /Volumes/D/AspNetMicroservices/src
       dockerfile: Services/Discount/Discount.Grpc/Dockerfile
     container_name: discount.grpc
     depends_on:
@@ -198,7 +198,7 @@ services:
       protocol: tcp
   ocelotapigw:
     build:
-      context: /Volumes/D/microservices/AspNetMicroservices/src
+      context: /Volumes/D/AspNetMicroservices/src
       dockerfile: ApiGateways/OcelotApiGw/Dockerfile
     container_name: ocelotapigw
     depends_on:
@@ -237,7 +237,7 @@ services:
     restart: always
   ordering.api:
     build:
-      context: /Volumes/D/microservices/AspNetMicroservices/src
+      context: /Volumes/D/AspNetMicroservices/src
       dockerfile: Services/Ordering/Ordering.API/Dockerfile
     container_name: ordering.api
     depends_on:
@@ -320,7 +320,7 @@ services:
     restart: always
   shopping.aggregator:
     build:
-      context: /Volumes/D/microservices/AspNetMicroservices/src
+      context: /Volumes/D/AspNetMicroservices/src
       dockerfile: ApiGateways/Shopping.Aggregator/Dockerfile
     container_name: shopping.aggregator
     depends_on:
@@ -346,7 +346,7 @@ services:
       protocol: tcp
   webstatus:
     build:
-      context: /Volumes/D/microservices/AspNetMicroservices/src
+      context: /Volumes/D/AspNetMicroservices/src
       dockerfile: WebApps/WebStatus/Dockerfile
     container_name: webstatus
     environment:
@@ -373,15 +373,15 @@ services:
       protocol: tcp
 networks:
   default:
-    name: dockercompose4990733705002982799_default
+    name: dockercompose5991029382263501978_default
 volumes:
   elasticsearch-data:
-    name: dockercompose4990733705002982799_elasticsearch-data
+    name: dockercompose5991029382263501978_elasticsearch-data
   mongo_data:
-    name: dockercompose4990733705002982799_mongo_data
+    name: dockercompose5991029382263501978_mongo_data
   pgadmin_data:
-    name: dockercompose4990733705002982799_pgadmin_data
+    name: dockercompose5991029382263501978_pgadmin_data
   portainer_data:
-    name: dockercompose4990733705002982799_portainer_data
+    name: dockercompose5991029382263501978_portainer_data
   postgres_data:
-    name: dockercompose4990733705002982799_postgres_data
+    name: dockercompose5991029382263501978_postgres_data

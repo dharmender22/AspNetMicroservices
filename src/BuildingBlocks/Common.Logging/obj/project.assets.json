@@ -5837,11 +5837,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/D/microservices/AspNetMicroservices/src/BuildingBlocks/Common.Logging/Common.Logging.csproj",
+      "projectUniqueName": "/Volumes/D/AspNetMicroservices/src/BuildingBlocks/Common.Logging/Common.Logging.csproj",
       "projectName": "Common.Logging",
-      "projectPath": "/Volumes/D/microservices/AspNetMicroservices/src/BuildingBlocks/Common.Logging/Common.Logging.csproj",
+      "projectPath": "/Volumes/D/AspNetMicroservices/src/BuildingBlocks/Common.Logging/Common.Logging.csproj",
       "packagesPath": "/Users/dharmenderrai/.nuget/packages/",
-      "outputPath": "/Volumes/D/microservices/AspNetMicroservices/src/BuildingBlocks/Common.Logging/obj/",
+      "outputPath": "/Volumes/D/AspNetMicroservices/src/BuildingBlocks/Common.Logging/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dharmenderrai/.nuget/NuGet/NuGet.Config"
@@ -5897,7 +5897,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
       }
     }
   }

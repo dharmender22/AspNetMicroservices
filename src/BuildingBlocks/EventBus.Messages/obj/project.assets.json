@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/D/microservices/AspNetMicroservices/src/BuildingBlocks/EventBus.Messages/EventBus.Messages.csproj",
+      "projectUniqueName": "/Volumes/D/AspNetMicroservices/src/BuildingBlocks/EventBus.Messages/EventBus.Messages.csproj",
       "projectName": "EventBus.Messages",
-      "projectPath": "/Volumes/D/microservices/AspNetMicroservices/src/BuildingBlocks/EventBus.Messages/EventBus.Messages.csproj",
+      "projectPath": "/Volumes/D/AspNetMicroservices/src/BuildingBlocks/EventBus.Messages/EventBus.Messages.csproj",
       "packagesPath": "/Users/dharmenderrai/.nuget/packages/",
-      "outputPath": "/Volumes/D/microservices/AspNetMicroservices/src/BuildingBlocks/EventBus.Messages/obj/",
+      "outputPath": "/Volumes/D/AspNetMicroservices/src/BuildingBlocks/EventBus.Messages/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dharmenderrai/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
       }
     }
   }

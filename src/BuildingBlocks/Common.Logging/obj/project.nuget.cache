@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0r9IWF3+AezvSBmB4dHcHWlB/Poc7CR1Y9SfJW1+fV9IRc6hEflnA4qL+WU1XVC11aDxWfl4byAbbORGVb1DbA==",
+  "dgSpecHash": "iEHsbKsIWVLLqZn0R6z6fT31ER6WHl+qBybknZopLHDmJREuVUpTSKPXypGutMruqRzxaTTrqarnuW05cGXYEg==",
   "success": true,
-  "projectFilePath": "/Volumes/D/microservices/AspNetMicroservices/src/BuildingBlocks/Common.Logging/Common.Logging.csproj",
+  "projectFilePath": "/Volumes/D/AspNetMicroservices/src/BuildingBlocks/Common.Logging/Common.Logging.csproj",
   "expectedPackageFiles": [
     "/Users/dharmenderrai/.nuget/packages/elasticsearch.net/7.8.1/elasticsearch.net.7.8.1.nupkg.sha512",
     "/Users/dharmenderrai/.nuget/packages/microsoft.csharp/4.6.0/microsoft.csharp.4.6.0.nupkg.sha512",

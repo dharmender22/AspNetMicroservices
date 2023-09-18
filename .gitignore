@@ -399,3 +399,7 @@ FodyWeavers.xsd
 
 src/.vs/
 src/.vs/aspnetrun-microservices
+/src/WebApps/
+src/.vs/
+src/[Bb]in
+src/[Bb]in
